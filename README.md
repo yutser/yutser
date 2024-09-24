@@ -1,5 +1,12 @@
-## Hi there 👋
+## 👋 Hi there
+- 🔭 I’m a IT Infrastructure Engineer and Systems Architect
+- 🌱 I’m currently learning AWS CDK
 
+## 🚀 My Expertise
+- Cloud Infrastructure/AWS
+- Infrastructure as Code (IaC)/CloudFormation
+- CI/CD pipelines/GitHubActions
+- Network & Security
 <!--
 **yutser/yutser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
